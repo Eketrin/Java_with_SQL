@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class Add {
     public static void main(String[] inpt) {
                                                //1234          имя бд
-        String url = "jdbc:sqlserver://localhost:1433;database=Library;encrypt=true;trustServerCertificate=true;";
+        String url = "jdbc:sqlserver://localhost:    ;database=        ;encrypt=true;trustServerCertificate=true;";
         String username = "";
         String password = "";
 
